@@ -1,0 +1,1 @@
+These do-files include code written in R, Stata, and MATLAB for my academic projects. Specifically, I used Stata for econometric analysis, R for exploratory data analysis, and MATLAB for calibration and solving equilibrium macroeconomic models.
